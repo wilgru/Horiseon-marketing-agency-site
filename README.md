@@ -2,7 +2,7 @@
 
 Landing page for Horiseon marketing Agency, using semantic HTML and CSS.
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/wilgru/Horiseon-marketing-agency-site/blob/main/assets/images/mock-up.png)
 
 ---
 Link to page here:
