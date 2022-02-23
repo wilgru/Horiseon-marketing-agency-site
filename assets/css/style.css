@@ -58,13 +58,13 @@ p {
 }
 
 /* Content Section Styles */
-#content {
+main {
     display: inline-block;
     margin-left: 20px;
     width: 75%;
 }
 
-#content article {
+main article {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -73,11 +73,11 @@ p {
     color: #ffffff;
 }
 
-#content article img {
+main article img {
     max-height: 200px;
 }
 
-#content article h2 {
+main article h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -93,7 +93,7 @@ p {
 }
 
 /* Benefits Section Styles */
-#benefits {
+aside {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -104,17 +104,17 @@ p {
     background-color: #2589bd;
 }
 
-#benefits article {
+aside article {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-#benefits article h3 {
+aside article h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-#benefits article img {
+aside article img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
